@@ -1,0 +1,22 @@
+{
+  "name": "@todgru/get",
+  "version": "0.0.1",
+  "description": "Simplified replacement for lodash.get",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/todgru/get.git"
+  },
+  "author": "todgru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/todgru/get/issues"
+  },
+  "homepage": "https://github.com/todgru/get#readme",
+  "devDependencies": {
+    "ava": "3.9.0"
+  }
+}
